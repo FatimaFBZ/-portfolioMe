@@ -10,7 +10,7 @@ Updated portfolio
 * Updated GitHub profile
 
 # link to deployed site 
-
+https://fatimafbz.github.io/-portfolioMe/
 
 # Questions: contact my email:
 fatima_baluch@hotmail.com
